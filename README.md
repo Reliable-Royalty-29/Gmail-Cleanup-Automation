@@ -50,7 +50,7 @@ Automatically search and delete all emails in Gmail tabs:
 
 - Command: python -m pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
-✅ Step 6: Run the Script
+✅ Step 5: Run the Script
 - Command:python delete_gmail_categories.py.
 - On the first run, a browser will open → log in → allow access.
 - A token.json file will be generated for future runs.
