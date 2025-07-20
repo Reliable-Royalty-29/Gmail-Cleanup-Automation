@@ -83,4 +83,5 @@ Feel free to star this repo ⭐, suggest improvements, or reach out if you need 
 
 Automation saves time and peace of mind 🕊️ — Clean inbox, clear mind.
 
+<img width="1004" height="268" alt="image" src="https://github.com/user-attachments/assets/1be49c0b-379f-4abc-91fd-2f5734732c95" />
 
