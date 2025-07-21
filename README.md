@@ -39,6 +39,18 @@ Automatically search and delete all emails in Gmail tabs:
 5. Add your Gmail to Test Users.
 6. Save and go back to Credentials page.
 
+<img width="1363" height="578" alt="image" src="https://github.com/user-attachments/assets/aaf4a3ca-1d77-4ecd-af01-ea3d225cc5da" />
+
+<img width="1361" height="231" alt="image" src="https://github.com/user-attachments/assets/2ad03308-2e81-42f8-ad29-25839271ad1a" />
+
+<img width="1340" height="531" alt="image" src="https://github.com/user-attachments/assets/968cfa28-0ed7-4fed-91ee-423ad44a0210" />
+
+<img width="1362" height="305" alt="image" src="https://github.com/user-attachments/assets/b154a759-f1b7-440a-8343-162788887bc9" />
+
+
+
+
+
 ✅ Step 3: Create OAuth Credentials
 1. Go to APIs & Services > Credentials
 2. Click "Create Credentials > OAuth Client ID"
