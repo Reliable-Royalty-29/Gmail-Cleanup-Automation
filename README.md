@@ -21,6 +21,11 @@ Automatically search and delete all emails in Gmail tabs:
 
   - Go to APIs & Services > Library.
   - Search "Gmail API", click it, and click Enable.
+<img width="1357" height="462" alt="image" src="https://github.com/user-attachments/assets/d5255b6c-68b1-444a-855f-c19d53c4d548" />
+
+<img width="1362" height="551" alt="image" src="https://github.com/user-attachments/assets/bbc22f70-f398-4c1d-ac8f-22af995d78a7" />
+
+
 
 ✅ Step 2: Configure OAuth Consent Screen
 
